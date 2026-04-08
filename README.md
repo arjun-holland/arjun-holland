@@ -41,9 +41,6 @@
 - 📫 How to reach me  
   **mallikarjuna1a05i6@gmail.com**
 
-- 📄 Know about my experiences  
-  👉 https://drive.google.com/file/d/1l7HqLLuGEh_MCnwFB2KJ0FdmZDgCi3uk/view
-
 - ⚡ Fun fact  
   **I’ve solved 1000+ DSA problems, won a College hackathon, and still enjoy breaking bugs more than sleeping 😄**
 
